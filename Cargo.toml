@@ -1,0 +1,10 @@
+[package]
+name = "typed"
+description = "A simple type annotation for compiler plugins."
+version = "1.0.0"
+authors = ["강동윤 <kdy1@outlook.kr>"]
+license = "MIT/Apache-2.0"
+homepage = "https://github.com/kdy1/rust-typed"
+repository = "https://github.com/kdy1/rust-typed"
+
+[dependencies]
